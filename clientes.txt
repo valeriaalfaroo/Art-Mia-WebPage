@@ -1,0 +1,23 @@
+  
+ ****
+ Cliente: 
+ Cedula: 17837207
+ Nombre: Valeria Alfaro 
+ Tipo de Cliente: regular
+ Metodo de Pago: tarjeta
+ Tipo de Tarjeta: debito
+ Número de Tarjeta:  474512938192
+ ****
+ Cliente: 
+ Cedula: 19837827
+ Nombre: dariela
+ Tipo de Cliente: nuevo
+ Metodo de Pago: tarjeta
+ Tipo de Tarjeta: credito
+ Número de Tarjeta:  28792872
+ ****
+ Cliente: 
+ Cedula: 19872987
+ Nombre: abril
+ Tipo de Cliente: regular
+ Metodo de Pago: efectivo

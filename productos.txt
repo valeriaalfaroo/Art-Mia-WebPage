@@ -1,0 +1,16 @@
+  
+ *****
+ Nombre: taza de cafe
+ Codigo: 
+ P1002
+ Precio Total: 10000.0
+ *****
+ Nombre: Tennis Vans
+ Codigo: 
+ N1002
+ Precio Total: 50000.0
+ *****
+ Nombre: estuche
+ Codigo: 
+ N1004
+ Precio Total: 5000.0

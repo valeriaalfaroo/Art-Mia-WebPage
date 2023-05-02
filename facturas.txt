@@ -1,0 +1,7 @@
+  
+ ****
+ Número de factura: 1002
+ Nombre del producto: AudÃ­fonos JBL
+ Cédula del cliente: 18927298
+ Fecha de la factura: 20/04/2023
+ Monto que pagar: 60000.0
